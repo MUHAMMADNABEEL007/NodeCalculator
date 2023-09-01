@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { answer } from './query.js';
 import gradient, { rainbow } from 'gradient-string';
 
